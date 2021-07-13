@@ -1,13 +1,13 @@
-### Who am I 
+### Who am I 👀
 
 I am an aspiring web developer, writer and business enthusiast. I am interested in building products and companies that solve problems for millions of users.
 
-### What am I doing 
+### What am I doing 👨🏾‍💻
 
 I am curretly learning how to build solid web applications using Pyhon 🐍, Django, HTML and CSS. 
 
 
-### How to reach me
+### How to reach me 🧞‍♂️
 
 Email: emekamba10@gmail.com
 Linkedin: www.linkedin.com/in/emekamba
