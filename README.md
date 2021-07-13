@@ -10,7 +10,7 @@ I am curretly learning how to build solid web applications using Pyhon 🐍, Dja
 ### How to reach me
 
 Email: emekamba10@gmail.com
-Linkedin: linkedin.com/in/emekamba
+Linkedin: www.linkedin.com/in/emekamba
 
 
 ### Fun Facts ⚡️
