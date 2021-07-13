@@ -17,7 +17,7 @@ Linkedin: www.linkedin.com/in/emekamba
 
 - 📝 I write essays and I recommend books.
 - 📖 Check out my medium blog: www.medium.com/@emekaoflagos
-- 📩 Subscribe to my newsletter: chukwuemekamba.substack.com 
+- 📩 Subscribe to my newsletter: https://chukwuemekamba.substack.com 
 
 
 
