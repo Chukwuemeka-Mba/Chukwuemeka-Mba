@@ -1,6 +1,6 @@
 ### Hey There! 🤗
 
-I am an aspiring web developer, writer and business enthusiast. I am interested in building products and companies that solve problems for millions of users.
+I am a full stack web developer, writer and business enthusiast. I am interested in building products and companies that solve problems for millions of users.
 
 ### What am I doing 👨🏾‍💻
 
