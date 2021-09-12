@@ -4,7 +4,7 @@ I am a full stack web developer, writer and business enthusiast. I am interested
 
 ### What am I doing 👨🏾‍💻
 
-I am curretly learning how to build solid web applications using Pyhon 🐍, Django, HTML and CSS. 
+I am curretly learning how to build solid web applications using Pyhon 🐍, Django, Javascript, HTML and CSS. 
 
 
 ### How to reach me 🧞‍♂️
