@@ -19,6 +19,7 @@ Linkedin: www.linkedin.com/in/emekamba
 - 📖 Check out my medium blog: www.medium.com/@emekaoflagos
 - 📩 Get free book recommendations from my newsletter: https://chukwuemekamba.substack.com 
 - 🎧 I love Grime (Skepta's my fave ❤️)
+- ✌🏾 I'm always angry
 
 
 
