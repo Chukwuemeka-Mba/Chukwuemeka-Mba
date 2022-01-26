@@ -4,7 +4,7 @@ I am a full stack web developer, writer and business enthusiast. I am interested
 
 ### What am I doing 👨🏾‍💻
 
-I am curretly learning how to build solid web applications using Pyhon 🐍, Django, Javascript, HTML and CSS. 
+I am curretly learning how to build solid web applications using Pyhon 🐍, Django, Javascript, React, HTML and CSS. 
 
 
 ### How to reach me 🧞‍♂️
@@ -15,7 +15,6 @@ Linkedin: www.linkedin.com/in/emekamba
 
 ### Fun Facts ⚡️
 
-- 📝 I write essays and I recommend books.
 - 📖 Check out my medium blog: www.medium.com/@emekaoflagos
 - 📩 Get free book recommendations from my newsletter: https://chukwuemekamba.substack.com 
 - 🎧 I love Grime (Skepta's my fave ❤️)
