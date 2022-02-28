@@ -1,6 +1,6 @@
 ### Hey There! 🤗
 
-I am a full stack web developer, writer and business enthusiast. I am interested in building solid web applications using Pyhon 🐍, Django, Javascript, React, HTML and CSS and companies that solve problems for millions of users.
+I am a full stack web developer, writer and business enthusiast. I am interested in building solid web applications using Pyhon 🐍, Django, Javascript, VueJs, ReactJs, HTML and CSS and companies that solve problems for millions of users.
 
 
 ### How to reach me 🧞‍♂️
