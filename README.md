@@ -1,6 +1,6 @@
 ### Hey There! 🤗
 
-I am a Fullstack web developer, writer and ex-finance scholar. 
+I am a Fullstack web developer, writer and finance scholar. 
 I am interested in building software and companies that solve problems for millions of users.
 
 <h3 align="left">Languages and Tools:</h3>
