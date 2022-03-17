@@ -1,5 +1,6 @@
-### Hey There! 🤗
+### Hello World �🤖
 
+My name's Emeka. 
 I am a Fullstack web developer, writer and finance scholar. 
 I am interested in building software and companies that solve problems for millions of users.
 
