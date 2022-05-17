@@ -1,5 +1,7 @@
 ### Hi there! 👋🏾
-My name is Emeka. 
+
+My name is Emeka.
+
 And I don't understand why your Navbar is not responsive.
 
 <h3 align="left">Tools</h3>
