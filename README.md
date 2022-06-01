@@ -10,11 +10,11 @@ Languages:
 - Typescript
 
 Tools:
-- Figma
-- Vue 3
-- Nuxt 
-- React
-- Redux
+- React x Redux
+- Vue x Nuxt
+- Node Js
+- Django
+- Figma!
 
 
 ### How to not disturb me 🧞‍♂️
