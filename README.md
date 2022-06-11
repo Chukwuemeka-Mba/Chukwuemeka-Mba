@@ -20,7 +20,7 @@ Like My Work?
 ### Quick Facts:
 
 - 🛠 &nbsp; I’m currently working with Javascript, Node.js, React, Nuxt.js and Vue.
-- 🚀 &nbsp; I’m currently exploring the world of web3 and cybersecurity
+- 🚀 &nbsp; I’m currently exploring the world of data structures and algorithms
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Chukwuemeka-Mba).
 - 👾 &nbsp; Fun fact: I love dancing 💃🏾 and running 🏃🏾‍♂️.
 - 📫 &nbsp; Please don't email me: [Email](mailto:emekamba10@gmail.com.com)
