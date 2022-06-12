@@ -5,9 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/reallifenero)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FChukwuemeka-Mba&label=Visitors&countColor=%23263759)
 
-### Why are you here? Be honest. &nbsp; 
-
-Me? 
+### About me. &nbsp; 
+ 
 I'm a finance enthusiast and a compulsive coder 👨🏻‍💻 currently working at [Acumen](https://acumen.digital). 
 I love exploring new technologies everyday and never pass up on an opportunity to learn 📱. I'm also immensely passionate about guiding and mentoring others who are new to the field 👨‍🏫. If there is one motto I live by, it's "Ship Good Code" 🚢 :)
 
