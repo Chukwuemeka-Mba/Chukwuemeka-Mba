@@ -8,7 +8,7 @@
 ### About me. &nbsp; 
  
 I'm a finance enthusiast and a compulsive coder 👨🏻‍💻 currently working at [Acumen](https://acumen.digital). 
-I love exploring new technologies everyday and never pass up on an opportunity to learn 📱. I'm also immensely passionate about guiding and mentoring others who are new to the field 👨‍🏫. If there is one motto I live by, it's "Ship Good Code" 🚢 :)
+I love exploring new technologies everyday and never pass up on an opportunity to learn 📱. I'm also immensely passionate about guiding and mentoring others who are new to the field 👨‍🏫. If there is one motto I live by, it's "One good work is better than 5 mediocre ones" 🚢 :)
 
 Like My Work?
 
