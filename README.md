@@ -14,7 +14,7 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/reallifenero" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/oNG0BcTCRvgeIsyAiE/giphy.gif" />
+<img align="right" height="250" width="325" alt="" src="https://media.giphy.com/media/UJ5I7921pAOEU/giphy.gif" />
 
 ### Quick Facts:
 
